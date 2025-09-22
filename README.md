@@ -1,9 +1,9 @@
 # YOLOv8
-##🦷 YOLOv8 Dental Detection
+#🦷 YOLOv8 Dental Detection
 
 A deep learning project to fine-tune YOLOv8 for detecting and classifying different types of teeth from dental images. This model was trained on a custom dataset with 7 tooth classes to achieve high accuracy and robust performance.
 
-##📑 Project Overview
+#📑 Project Overview
 
 This project demonstrates how to:
 
@@ -15,7 +15,7 @@ Evaluate model performance using metrics such as Precision, Recall, and mAP
 
 Test and visualize results on new images
 
-##🗂 Dataset
+#🗂 Dataset
 
 The model was trained on a curated set of dental images (not X-rays) with 7 annotated classes:
 
@@ -43,7 +43,7 @@ dental_dataset/
     train/
     val/
 
-🛠️ Installation
+#🛠️ Installation
 
 Clone the repository and install the required dependencies:
 
@@ -51,7 +51,7 @@ git clone https://github.com/<your-username>/YOLOv8-Dental-Detection.git
 cd YOLOv8-Dental-Detection
 pip install ultralytics
 
-🚀 Training
+#🚀 Training
 
 Train the YOLOv8 model on the dental dataset:
 
